@@ -159,3 +159,8 @@ $ python etl.py
 ## Acknowledgements
 
 I wish to thank Udacity for advice and review.
+
+## Experiência no Projeto
+
+O projeto implica num aplicativo de streaming de música que quer uma análise dos seus dados de clientes e músicas que eles escutam.
+A maneira de acessar os dados via registros de JSON criando um banco de dados postgres, criando um esquema de bd e um pipeline ETL para a análise e para verificar usando o arquivo  test.ipynb para comparar resultados com os esperados nos assets.
